@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CavistaDemoApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hint_search_view">Search</string>
+    <string name="error_internet">Internet not available</string>
+    <string name="str_comment">Comment</string>
+    <string name="str_submit">Submit</string>
+    <string name="str_success">Comment saved..!!</string>
+</resources>
